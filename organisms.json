@@ -1,0 +1,11 @@
+{
+    "Lion": {
+        "kingdom": "Animalia",
+        "class": "Mammalia",
+        "order": "Primates"
+    },
+    "Oak": {
+        "kingdom": "Plantae",
+        "order": "Fagales"
+    }
+}
